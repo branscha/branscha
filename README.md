@@ -15,5 +15,10 @@
 * [Java CLI Command](https://github.com/branscha/tmplt-java-cli-cmd): Java command.
 * [Common Lisp](https://github.com/branscha/tmplt-basic-lisp): Common Lisp jumpstart.
 
+## Labs
+### GCP
 
+* [Speech to Text](https://github.com/branscha/speech-to-text): Test GCP speech API.
+
+### Go
 

@@ -6,7 +6,7 @@
 
 ## Libraries
 
-* test2
+* [JSON utilities](https://github.com/branscha/lib-jsonutil): Parse/render JSON text. Well tested, minimal library without external dependencies.
 
 ## Template projects
 

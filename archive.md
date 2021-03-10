@@ -10,7 +10,8 @@
    * [JConsole](https://github.com/branscha/lib-jconsole): Swing console component.
 
 ## Templates
-
+   * Basic:
+      * [Common Lisp](https://github.com/branscha/tmplt-basic-lisp): Common Lisp starter.
    * Servers
       * [Flex client + BlazeDS server](https://github.com/branscha/tmplt-flexapp): Flex client application and a BlazeDS server.
       * [Basic Adobe AIR](https://github.com/branscha/tmplt-airapp): Adobe AIR client application.

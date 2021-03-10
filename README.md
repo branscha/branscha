@@ -7,8 +7,11 @@
 
 ## Libraries
 
-* [JSON utilities](https://github.com/branscha/lib-jsonutil): Parse/render JSON text. Well tested, minimal library without external dependencies.
-* [Scripty](https://github.com/branscha/lib-scripty): Embeddable scripting language, similar to lisp. Can be embedded in annotations, custom CLI's, you name it.
+* Java
+   * [JSON utilities](https://github.com/branscha/lib-jsonutil): Parse/render JSON text. Well tested, minimal library without external dependencies.
+   * [Scripty](https://github.com/branscha/lib-scripty): Embeddable scripting language, similar to lisp. Can be embedded in annotations, custom CLI's, you name it.
+* JavaScript
+   * [Bytes](https://github.com/branscha/lib-bytes) Manipulating byte strings.
 
 ## Template projects
 
@@ -20,7 +23,6 @@
 ## Labs
 ### GCP
 
-* [Speech to Text](https://github.com/branscha/speech-to-text): Test GCP speech API.
-
-### Go
-
+* GCP
+   * [Speech to Text](https://github.com/branscha/speech-to-text): Test GCP speech API.
+* Go

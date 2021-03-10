@@ -24,6 +24,8 @@
 * [Basic JavaScript](https://github.com/branscha/tmplt-es6-gulp-jest): JavaScript jumpstart.
 * [Basic REST/Soap CXF](https://github.com/branscha/tmplt-server-cxf): REST + Soap server using Apache CXF.
 * [AngularJS client/server](https://github.com/branscha/tmplt-ngapp): AngularJS client + server.
+* Archived
+   * [Flex + BlazeDS](https://github.com/branscha/tmplt-flexapp)
 
 ## Labs
 ### GCP

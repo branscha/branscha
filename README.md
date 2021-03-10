@@ -32,10 +32,7 @@
    * [REST with Jersey](https://github.com/branscha/tmplt-server-rest-jersey): Using Jersey.
    * [AngularJS client/server](https://github.com/branscha/tmplt-ngapp): AngularJS client + server.
 
-## Labs
+## More Stuff
 
-Experiments and tests are on the [Lab Projects](labs.md) page.
-
-## Archive
-
-Archived repositories can be found on the [Archive](archive.md) page.
+* Experiments and tests are on the ["Lab Projects"](labs.md) page.
+* Old repositories can be found on the ["Archive"](archive.md) page.

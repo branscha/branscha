@@ -11,8 +11,8 @@
    * [JSON utilities](https://github.com/branscha/lib-jsonutil): Parse/render JSON text. Well tested, minimal library without external dependencies.
    * [Scripty](https://github.com/branscha/lib-scripty): Embeddable scripting language, similar to lisp. Can be embedded in annotations, custom CLI's, you name it.
 * JavaScript
-   * [Bytes](https://github.com/branscha/lib-bytes) Manipulating byte strings.
-   * [Hex](https://github.com/branscha/lib-hex) Hexa codec. Encode-decode texts to/from hexadecimal format.
+   * [Bytes](https://github.com/branscha/lib-bytes): Manipulating byte strings.
+   * [Hex](https://github.com/branscha/lib-hex): Hexa codec. Encode-decode texts to/from hexadecimal format.
 
 ## Template projects
 

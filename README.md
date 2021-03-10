@@ -11,6 +11,7 @@
 ## Template projects
 
 * [Basic Go](https://github.com/branscha/tmplt-basic-go): Go jumpstart.
+* [Basic Java/Maven](https://github.com/branscha/tmplt-basic-maven): Java jumpstart.
 
 
 

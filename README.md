@@ -30,8 +30,9 @@
    * [Go](https://github.com/branscha/tmplt-basic-go): Go starter.
    * [Java](https://github.com/branscha/tmplt-basic-maven): Java starter.
    * [Java Command](https://github.com/branscha/tmplt-java-cli-cmd): Java command.
-   * [Common Lisp](https://github.com/branscha/tmplt-basic-lisp): Common Lisp starter.
    * [JavaScript](https://github.com/branscha/tmplt-es6-gulp-jest): JavaScript starter.
+   * Archived:
+      * [Common Lisp](https://github.com/branscha/tmplt-basic-lisp): Common Lisp starter.
 * Servers
    * [REST/SOAP with CXF](https://github.com/branscha/tmplt-server-cxf): Using Apache CXF.
    * [REST/SOAP with Spring](https://github.com/branscha/tmplt-server-rest-springmvc): Using Spring MVC.

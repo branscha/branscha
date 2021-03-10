@@ -23,8 +23,9 @@
 * [Common Lisp](https://github.com/branscha/tmplt-basic-lisp): Common Lisp jumpstart.
 * [Basic JavaScript](https://github.com/branscha/tmplt-es6-gulp-jest): JavaScript jumpstart.
 * Servers
-   * [REST/SOAP with CXF](https://github.com/branscha/tmplt-server-cxf): REST + Soap server based on Apache CXF.
-   * [REST/SOAP with Spring](https://github.com/branscha/tmplt-server-rest-springmvc)
+   * [REST/SOAP with CXF](https://github.com/branscha/tmplt-server-cxf): Using Apache CXF.
+   * [REST with Jersey](https://github.com/branscha/tmplt-server-rest-jersey): Using Jersey.
+   * [REST/SOAP with Spring](https://github.com/branscha/tmplt-server-rest-springmvc): Using Spring MVC.
    * [AngularJS client/server](https://github.com/branscha/tmplt-ngapp): AngularJS client + server.
 * Archived
    * [Flex client + BlazeDS server](https://github.com/branscha/tmplt-flexapp): Flex client application and a BlazeDS server.

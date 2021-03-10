@@ -34,8 +34,8 @@
    * [JavaScript](https://github.com/branscha/tmplt-es6-gulp-jest): JavaScript starter.
 * Servers
    * [REST/SOAP with CXF](https://github.com/branscha/tmplt-server-cxf): Using Apache CXF.
-   * [REST with Jersey](https://github.com/branscha/tmplt-server-rest-jersey): Using Jersey.
    * [REST/SOAP with Spring](https://github.com/branscha/tmplt-server-rest-springmvc): Using Spring MVC.
+   * [REST with Jersey](https://github.com/branscha/tmplt-server-rest-jersey): Using Jersey.
    * [AngularJS client/server](https://github.com/branscha/tmplt-ngapp): AngularJS client + server.
 * Archived
    * [Flex client + BlazeDS server](https://github.com/branscha/tmplt-flexapp): Flex client application and a BlazeDS server.

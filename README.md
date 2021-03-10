@@ -33,9 +33,6 @@
    * [REST/SOAP with Spring](https://github.com/branscha/tmplt-server-rest-springmvc): Using Spring MVC.
    * [REST with Jersey](https://github.com/branscha/tmplt-server-rest-jersey): Using Jersey.
    * [AngularJS client/server](https://github.com/branscha/tmplt-ngapp): AngularJS client + server.
-   * Archived
-      * [Flex client + BlazeDS server](https://github.com/branscha/tmplt-flexapp): Flex client application and a BlazeDS server.
-      * [Basic Adobe AIR](https://github.com/branscha/tmplt-airapp): Adobe AIR client application.
 
 ## Labs
 

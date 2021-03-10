@@ -25,7 +25,7 @@
 * [Basic REST/Soap CXF](https://github.com/branscha/tmplt-server-cxf): REST + Soap server using Apache CXF.
 * [AngularJS client/server](https://github.com/branscha/tmplt-ngapp): AngularJS client + server.
 * Archived
-   * [Flex + BlazeDS](https://github.com/branscha/tmplt-flexapp)
+   * [Flex client + BlazeDS server](https://github.com/branscha/tmplt-flexapp):  Flex client application and a BlazeDS server.
 
 ## Labs
 ### GCP

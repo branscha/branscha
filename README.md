@@ -12,7 +12,8 @@
 
 * [Basic Go](https://github.com/branscha/tmplt-basic-go): Go jumpstart.
 * [Basic Java/Maven](https://github.com/branscha/tmplt-basic-maven): Java jumpstart.
-* [Java CLI Command](https://github.com/branscha/tmplt-java-cli-cmd): Java Command.
+* [Java CLI Command](https://github.com/branscha/tmplt-java-cli-cmd): Java command.
+* [Common Lisp](https://github.com/branscha/tmplt-basic-lisp): Common Lisp jumpstart.
 
 
 

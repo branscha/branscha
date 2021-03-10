@@ -45,3 +45,7 @@
 ## Labs
 
 Experiments and tests are on the [Lab Projects](labs.md) page.
+
+## Archive
+
+Archived repositories can be found on the [Archive](archive.md) page.

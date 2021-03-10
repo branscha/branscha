@@ -7,6 +7,7 @@
 ## Libraries
 
 * [JSON utilities](https://github.com/branscha/lib-jsonutil): Parse/render JSON text. Well tested, minimal library without external dependencies.
+* [Scripty](https://github.com/branscha/lib-scripty): Embeddable scripting language, similar to lisp. Can be embedded in annotations, custom CLI's, you name it.
 
 ## Template projects
 

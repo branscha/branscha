@@ -13,6 +13,7 @@
    * [JSON Tools](https://github.com/branscha/lib-jsontools): Map JSON data to/from Java classes. 
    * Archived:
       * [Message Bus](https://github.com/branscha/lib-messagebus): A message bus for event based communication in a GUI application.
+      * [Swing](https://github.com/branscha/tmplt-swingbasic): Basic Swing application.
 * JavaScript
    * [Bytes](https://github.com/branscha/lib-bytes): Manipulating byte strings.
    * [Hex](https://github.com/branscha/lib-hex): Encode-decode texts to/from hexadecimal format.

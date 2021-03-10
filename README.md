@@ -22,11 +22,13 @@
 * [Java CLI Command](https://github.com/branscha/tmplt-java-cli-cmd): Java command.
 * [Common Lisp](https://github.com/branscha/tmplt-basic-lisp): Common Lisp jumpstart.
 * [Basic JavaScript](https://github.com/branscha/tmplt-es6-gulp-jest): JavaScript jumpstart.
-* [Basic REST/Soap CXF](https://github.com/branscha/tmplt-server-cxf): REST + Soap server based on Apache CXF.
-* [AngularJS client/server](https://github.com/branscha/tmplt-ngapp): AngularJS client + server.
+* Servers
+   * [REST/SOAP with CXF](https://github.com/branscha/tmplt-server-cxf): REST + Soap server based on Apache CXF.
+   * [REST/SOAP with Spring](https://github.com/branscha/tmplt-server-rest-springmvc)
+   * [AngularJS client/server](https://github.com/branscha/tmplt-ngapp): AngularJS client + server.
 * Archived
    * [Flex client + BlazeDS server](https://github.com/branscha/tmplt-flexapp): Flex client application and a BlazeDS server.
-   * [Basic Adobe AIR](https://github.com/branscha/tmplt-airapp)Adobe AIR client application.
+   * [Basic Adobe AIR](https://github.com/branscha/tmplt-airapp): Adobe AIR client application.
 
 ## Labs
 ### GCP

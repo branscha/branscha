@@ -15,6 +15,8 @@
    * [Bytes](https://github.com/branscha/lib-bytes): Manipulating byte strings.
    * [Hex](https://github.com/branscha/lib-hex): Encode-decode texts to/from hexadecimal format.
    * [Base64](https://github.com/branscha/lib-base64). Encode-decode strings to/from base64 format.
+ * Archived
+    * [Message Bus](https://github.com/branscha/lib-messagebus): A message bus for event based communication in a GUI application.
 
 ## Template Projects
 

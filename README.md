@@ -3,6 +3,7 @@
 
 * [Tripline](https://github.com/branscha/app-tripline): Security application to detect modifications in the file system.
 * [Bing Wallpaper](https://github.com/branscha/app-bing-wallpaper): Wallpaper for Ubuntu.
+* [Password Tracker](https://github.com/branscha/app-patra) Keepass clone.
 
 ## Libraries
 

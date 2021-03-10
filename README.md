@@ -9,7 +9,7 @@
 
 ## Template projects
 
-* test3
+* [Basic Go](https://github.com/branscha/tmplt-basic-go): Go jumpstart.
 
 
 

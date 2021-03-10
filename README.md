@@ -11,8 +11,8 @@
    * [JSON utilities](https://github.com/branscha/lib-jsonutil): Parse/render JSON text. Well tested, minimal library without external dependencies.
    * [Scripty](https://github.com/branscha/lib-scripty): Embeddable scripting language, similar to lisp. Can be embedded in annotations, custom CLI's, you name it.
    * [JSON Tools](https://github.com/branscha/lib-jsontools): Map JSON data to/from Java classes. 
-      * Archived:
-         * [Message Bus](https://github.com/branscha/lib-messagebus): A message bus for event based communication in a GUI application.
+   * Archived:
+      * [Message Bus](https://github.com/branscha/lib-messagebus): A message bus for event based communication in a GUI application.
 * JavaScript
    * [Bytes](https://github.com/branscha/lib-bytes): Manipulating byte strings.
    * [Hex](https://github.com/branscha/lib-hex): Encode-decode texts to/from hexadecimal format.

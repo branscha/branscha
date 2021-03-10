@@ -3,7 +3,8 @@
 
 * [Tripline](https://github.com/branscha/app-tripline): Security application to detect modifications in the file system.
 * [Bing Wallpaper](https://github.com/branscha/app-bing-wallpaper): Wallpaper for Ubuntu.
-* [Password Tracker](https://github.com/branscha/app-patra) Keepass clone.
+* Archived:
+   * [Password Tracker](https://github.com/branscha/app-patra) Keepass clone.
 
 ## Libraries
 
@@ -20,15 +21,17 @@
    * [Hex](https://github.com/branscha/lib-hex): Encode-decode texts to/from hexadecimal format.
    * [Base64](https://github.com/branscha/lib-base64). Encode-decode strings to/from base64 format.
 * Perl
+   * [Repl Loop](https://github.com/branscha/Repl-Loop) Console application with custom commands.
 
 
-## Template Projects
+## Project Templates
 
-* [Basic Go](https://github.com/branscha/tmplt-basic-go): Go jumpstart.
-* [Basic Java/Maven](https://github.com/branscha/tmplt-basic-maven): Java jumpstart.
-* [Java CLI Command](https://github.com/branscha/tmplt-java-cli-cmd): Java command.
-* [Common Lisp](https://github.com/branscha/tmplt-basic-lisp): Common Lisp jumpstart.
-* [Basic JavaScript](https://github.com/branscha/tmplt-es6-gulp-jest): JavaScript jumpstart.
+* Basic
+   * [Go](https://github.com/branscha/tmplt-basic-go): Go starter.
+   * [Java](https://github.com/branscha/tmplt-basic-maven): Java starter.
+   * [Java Command](https://github.com/branscha/tmplt-java-cli-cmd): Java command.
+   * [Common Lisp](https://github.com/branscha/tmplt-basic-lisp): Common Lisp starter.
+   * [JavaScript](https://github.com/branscha/tmplt-es6-gulp-jest): JavaScript starter.
 * Servers
    * [REST/SOAP with CXF](https://github.com/branscha/tmplt-server-cxf): Using Apache CXF.
    * [REST with Jersey](https://github.com/branscha/tmplt-server-rest-jersey): Using Jersey.
@@ -39,7 +42,6 @@
    * [Basic Adobe AIR](https://github.com/branscha/tmplt-airapp): Adobe AIR client application.
 
 ## Labs
-### GCP
 
 * GCP
    * [Speech to Text](https://github.com/branscha/speech-to-text): Test GCP speech API.

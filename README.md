@@ -21,8 +21,9 @@
 * [Basic Java/Maven](https://github.com/branscha/tmplt-basic-maven): Java jumpstart.
 * [Java CLI Command](https://github.com/branscha/tmplt-java-cli-cmd): Java command.
 * [Common Lisp](https://github.com/branscha/tmplt-basic-lisp): Common Lisp jumpstart.
-* [Basic JavaScripot](https://github.com/branscha/tmplt-es6-gulp-jest): JavaScript jumpstart.
+* [Basic JavaScript](https://github.com/branscha/tmplt-es6-gulp-jest): JavaScript jumpstart.
 * [Basic REST/Soap CXF](https://github.com/branscha/tmplt-server-cxf): REST + Soap server using Apache CXF.
+* [AngularJS client/server](https://github.com/branscha/tmplt-ngapp): AngularJS client + server.
 
 ## Labs
 ### GCP

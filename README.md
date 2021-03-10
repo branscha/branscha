@@ -12,9 +12,10 @@
    * [Scripty](https://github.com/branscha/lib-scripty): Embeddable scripting language, similar to lisp. Can be embedded in annotations, custom CLI's, you name it.
 * JavaScript
    * [Bytes](https://github.com/branscha/lib-bytes): Manipulating byte strings.
-   * [Hex](https://github.com/branscha/lib-hex): Hexa codec. Encode-decode texts to/from hexadecimal format.
+   * [Hex](https://github.com/branscha/lib-hex): Encode-decode texts to/from hexadecimal format.
+   * [Base64](https://github.com/branscha/lib-base64). Encode-decode strings to/from base64 format.
 
-## Template projects
+## Template Projects
 
 * [Basic Go](https://github.com/branscha/tmplt-basic-go): Go jumpstart.
 * [Basic Java/Maven](https://github.com/branscha/tmplt-basic-maven): Java jumpstart.

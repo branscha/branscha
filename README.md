@@ -17,22 +17,3 @@
    * [Base64](https://github.com/branscha/lib-base64). Encode-decode strings to/from base64 format.
 * Perl
    * [Repl Loop](https://github.com/branscha/Repl-Loop) Console application with custom commands.
-
-
-## Project Templates
-
-* Basic
-   * [Go](https://github.com/branscha/tmplt-basic-go): Go starter.
-   * [Java](https://github.com/branscha/tmplt-basic-maven): Java starter.
-   * [Java Command](https://github.com/branscha/tmplt-java-cli-cmd): Java command.
-   * [JavaScript](https://github.com/branscha/tmplt-es6-gulp-jest): JavaScript starter.
-* Servers
-   * [REST/SOAP with CXF](https://github.com/branscha/tmplt-server-cxf): Using Apache CXF.
-   * [REST/SOAP with Spring](https://github.com/branscha/tmplt-server-rest-springmvc): Using Spring MVC.
-   * [REST with Jersey](https://github.com/branscha/tmplt-server-rest-jersey): Using Jersey.
-   * [AngularJS client/server](https://github.com/branscha/tmplt-ngapp): AngularJS client + server.
-
-## More Stuff
-
-* Experiments and tests are on the ["Lab Projects"](labs.md) page.
-* Old repositories can be found on the ["Archive"](archive.md) page.
